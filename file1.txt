@@ -1,0 +1,3 @@
+Usage: git diff  
+
+This command shows the file differences which are not yet staged.
